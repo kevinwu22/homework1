@@ -39,6 +39,7 @@ table {
     border-collapse: collapse;
 }
 th {
+    width: 390px;
     height: 375px;
     text-align: left;
     padding: 5px;
